@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Zdravko</h1>
-<h3 align="center">I'm a Java learner from Bulgaria.</h3>
+<h3 align="center">I'm a Java Developer from Bulgaria.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <a href="https://twitter.com/zbozinarov" target="blank"><img src="https://img.shields.io/twitter/follow/zbozinarov?logo=twitter&style=for-the-badge" alt="zbozinarov" /></a> </p>
 
-- 🌱 I’m currently learning **Java Development and C++ Development.**
-
 - 🤝 I’m looking for help with **Java.**
 
-- 💬 Looking to become **Java Full Stack Developer.**
+- 💬 Become **Java Full Stack Developer** long time ago.
 
 - 📫 How to reach me ? **zdravkobozinarov@yahoo.com**
 
