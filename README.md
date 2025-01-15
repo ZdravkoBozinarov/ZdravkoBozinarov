@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/zbozinarov" target="blank"><img src="https://img.shields.io/twitter/follow/zbozinarov?logo=twitter&style=for-the-badge" alt="zbozinarov" /></a> </p>
 
-- 🤝 I’m looking for help with **Java.**
+- 🤝 I’m looking for help with **?**. I guess I'm okay so far 🫣
 
 - 💬 Become **Java Full Stack Developer** long time ago.
 
