@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Zdravko</h1>
-<h3 align="center">I'm a Java Developer from Bulgaria.</h3>
+<h3 align="center">I'm a C# Backend Developer from Bulgaria.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <a href="https://twitter.com/zbozinarov" target="blank"><img src="https://img.shields.io/twitter/follow/zbozinarov?logo=twitter&style=for-the-badge" alt="zbozinarov" /></a> </p>
 
 - 🤝 I’m looking for help with **?**. I guess I'm okay so far 🫣
 
-- 💬 Become **Java Full Stack Developer** long time ago.
+- 💬 Want to become a **C# Full Stack Developer**.
 
 - 📫 How to reach me ? **zdravkobozinarov@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zbozinarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zbozinarov" height="30" width="40" /></a>
-<a href="https://discord.gg/JstMental#1354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JstMental#1354" height="30" width="40" /></a>
+<a href="https://discord.gg/JstMental" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JstMental" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
